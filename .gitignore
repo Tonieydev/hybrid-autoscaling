@@ -1,1 +1,4 @@
 "Data/raw/" 
+"Data/raw/access.log" 
+"Data/raw/borg_traces_data.csv" 
+"*.log" 
